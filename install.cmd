@@ -1,4 +1,4 @@
 @echo off
-copy *.ini %USERPROFILE%
-robocopy vimfiles %USERPROFILE%/vimfiles /e
+copy /Y vimrc %USERPROFILE%\.vimrc
+robocopy vimfiles %USERPROFILE%\.vim /e
 pause
