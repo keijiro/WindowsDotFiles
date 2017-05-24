@@ -80,6 +80,8 @@ syn keyword shaderFunction combine
 syn keyword shaderFunction UnityPixelSnap
 
 syn keyword shaderCGProgram CGPROGRAM
+syn keyword shaderCGProgram CGINCLUDE
+syn keyword shaderCGProgram HLSLPROGRAM
 syn keyword shaderCGProgram ENDCG
 
 hi def link shaderType          Type
