@@ -36,6 +36,7 @@ syn keyword shaderType sampler2D
 syn keyword shaderType sampler3D
 syn keyword shaderType void
 syn keyword shaderType 2D
+syn keyword shaderType 2DArray
 syn keyword shaderType Color
 syn keyword shaderType struct
 syn keyword shaderType Float
